@@ -1,0 +1,3 @@
+[submodule "JavaBackend"]
+	path = JavaBackend
+	url = https://github.com/sathooriaravind/JavaBackend.git
